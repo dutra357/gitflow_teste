@@ -1,0 +1,3 @@
+[submodule "gitflow_teste"]
+	path = gitflow_teste
+	url = git@github.com:dutra357/gitflow_teste.git
